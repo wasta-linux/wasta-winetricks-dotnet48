@@ -1,0 +1,13 @@
+Source: wasta-winetricks-dotnet48
+Section: utils
+Priority: optional
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/wasta-linux/wasta-winetricks-dotnet48
+
+Package: wasta-winetricks-dotnet48
+Architecture: all
+Depends: ${misc:Depends}
+Description: Bundled dotnet48 for winetricks
+ Bundled dotnet48 winetricks cache for use by various Wasta-Wine packages.
