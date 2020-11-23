@@ -8,6 +8,6 @@ Homepage: https://github.com/wasta-linux/wasta-winetricks-dotnet48
 
 Package: wasta-winetricks-dotnet48
 Architecture: all
-Depends: wasta-winetricks, ${misc:Depends}
+Depends: wasta-winetricks (>= 20200412.5), ${misc:Depends}
 Description: Bundled dotnet48 for winetricks
  Bundled dotnet48 winetricks cache for use by various Wasta-Wine packages.

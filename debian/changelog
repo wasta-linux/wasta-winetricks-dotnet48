@@ -1,3 +1,9 @@
+wasta-winetricks-dotnet48 (1.0.2) focal; urgency=medium
+
+  * debian/control: setting wasta-winetricks minimum version number
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 23 Nov 2020 15:48:01 +0300
+
 wasta-winetricks-dotnet48 (1.0.1) focal; urgency=medium
 
   * adding wasta-winetricks dependency
